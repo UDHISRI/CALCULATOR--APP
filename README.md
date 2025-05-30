@@ -1,10 +1,10 @@
 # Calculator App
 
 🎯 **Golden Calculator App**  
-A sleek and stylish scientific calculator built with **HTML, CSS**, and **JavaScript**.
+A sleek and stylish scientific calculator built with **HTML**, **CSS**, and **JavaScript**.
 
 ## ✨ Features:
-- 🧠 Advanced functions: trig, logs, powers
+- 🧠 Advanced functions: trigonometry, logarithms, powers
 - 🎨 Black-gold gradient UI
 - 🔊 Button sound effects
 - 🖱️ Smooth and responsive layout
